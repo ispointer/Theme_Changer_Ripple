@@ -12,7 +12,7 @@ A smooth **Theme Switcher with Ripple Animation** for Android.
 
 ## Preview Frame
 
-<img src="preview.png" width="100%" />
+<img src="aa.jpg" width="100%" />
 
 ---
 
