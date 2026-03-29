@@ -6,7 +6,7 @@ A smooth **Theme Switcher with Ripple Animation** for Android.
 
 ## Live Demo 🍺
 
-<video src="video.mp4" controls width="100%"></video>
+[Watch Video](video.mp4)
 
 ---
 
